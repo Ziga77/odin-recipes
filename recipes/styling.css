@@ -14,4 +14,27 @@ ul li {
 img {
   width: 500px;
   height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+.recipe {
+  display: flex;
+}
+
+.ingredients {
+  margin-right: 200px;
+  border-width: 1px;
+  border-style: solid;
+  padding: 10px 25px;
+}
+
+.steps {
+
+}
+
+a {
+  display: block;
+  text-align: center;
+  margin-top: 50px;
 }
